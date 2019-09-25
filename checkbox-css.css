@@ -1,0 +1,17 @@
+.fondo{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: url('checkbox.png') left no-repeat;
+    background-position: -25px;
+    background-size: 494%;
+}
+.fondo2{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: url('checkbox.png') left no-repeat;
+    background-position: -172px;
+    background-size: 495%;
+​
+}
